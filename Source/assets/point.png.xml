@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="0bdf8185-6dd2-4a3b-9623-646bfc5b812c">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>point.png.xml</ProjectFile>
+    <ProjectFileRelativeDir>assets/</ProjectFileRelativeDir>
+    <SaveDate>2018-06-21T23:40:39</SaveDate>
+    <Comment />
+    <EditState>true</EditState>
+    <VisibleImage>true</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>true</VisibleGrid>
+    <VisibleProperty>true</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>686</ImgFileSize>
+    <ImgFileDate>2018/6/21 23:24:40</ImgFileDate>
+    <ImgPathName>assets/point.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>32</X>
+      <Y>32</Y>
+    </Center>
+    <Width>64</Width>
+    <Height>64</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>64</Width>
+        <Height>64</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>64</Width>
+      <Height>64</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>64</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>64</X>
+        <Y>64</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>64</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>64</MaskWidth>
+    <MaskHeight>64</MaskHeight>
+    <Mask>EAAB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>
