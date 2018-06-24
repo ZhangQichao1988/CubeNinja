@@ -53,5 +53,4 @@ Score.new = function()
 		listScore = nil
 	end
 
-  return this -- newの最後にメソッドやプロパティを構築したオブジェクトを返す
-end
+  return this
